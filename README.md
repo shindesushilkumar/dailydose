@@ -10,6 +10,7 @@ Websites to visit on daily basis to keep youself update with Web development wor
 
 # Entreprenuership
 1) www.yourstory.com <br />
+2) www.entrepreneur.com  <br />
 
 # Business & Technology
 1) www.businessinsider.com <br />
