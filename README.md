@@ -10,6 +10,7 @@ Websites to visit on daily basis to keep youself update with Web development wor
 6) https://medium.com/@freekmurze <br />
 7) http://paul-m-jones.com/ <br />
 8) http://blog.sarav.co/ <br />
+9) https://www.ibuildings.nl/blog <br />
 
 
 # Entreprenuership
