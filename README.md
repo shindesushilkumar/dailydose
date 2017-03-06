@@ -20,3 +20,4 @@ Websites to visit on daily basis to keep youself update with Web development wor
 # Business & Technology
 1) www.businessinsider.com <br />
 2) http://www.businessnewsdaily.com <br />
+3) https://hackernoon.com/ <br>
